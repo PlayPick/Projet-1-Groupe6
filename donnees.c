@@ -52,7 +52,7 @@ void file_clear(File *file){
 int lecture(File *file, int taille){
     int c;
     FILE* csv = NULL;
-    csv = fopen("fichier.txt", "r");
+    csv = fopen("battements.csv", "r");
     if(csv != NULL){
         while((c=fgetc(csv)) != EOF){
             Ligne donnee;
