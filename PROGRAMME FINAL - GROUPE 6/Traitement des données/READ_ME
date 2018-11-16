@@ -1,0 +1,9 @@
+======================================================================================
+        L'exécutable est à télécharger AVEC les bibliothèques (.h) associées:
+        -menus.h
+        -donnees.h
+        -actions.h
+        
+        Il n'est pas nécessaire de télécharger les .c, ils sont compilés avec
+        le main dans l'exécutable
+======================================================================================
